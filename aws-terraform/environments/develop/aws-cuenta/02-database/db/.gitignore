@@ -1,0 +1,4 @@
+tmp/
+temp/
+**.terraform**
+**.bk**
